@@ -1,0 +1,13 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Counter example with WebSockets",
+  "main": "app.js",
+  "author": "Mikhail Golod <mikhail.golod@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.8.1",
+    "ws": "^7.2.3"
+  }
+}
